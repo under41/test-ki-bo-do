@@ -1,0 +1,14 @@
+
+if SHIELD_TAKANOBUARITA_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "takanobuarita"
+
+endif
+
+if SHIELD_TAKANOBUARITA_LEFT || SHIELD_TAKANOBUARITA_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

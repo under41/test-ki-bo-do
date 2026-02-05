@@ -1,0 +1,4 @@
+config SHIELD_TAKANOBUARITA_LEFT
+    def_bool $(shields_list_contains,takanobuarita_left)
+config SHIELD_TAKANOBUARITA_RIGHT
+    def_bool $(shields_list_contains,takanobuarita_right)

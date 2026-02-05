@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: takanobuarita
+name: takanobuarita
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - takanobuarita_left
+  - takanobuarita_right
