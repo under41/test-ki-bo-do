@@ -231,11 +231,11 @@
         };
         layer_8 {   ////simbol win
             bindings =<
-                       &kp LS(SLASH) &none      &kp LS(MINUS) &none &kp LS(SCLN)                        &kp RBKT      &kp BSLH    &none      &none    &kp LS(N5) 
-				       &kp LS(N6)    &kp LS(N3) &kp LS(N4)    &none &none                               &kp LS(N8)    &kp LS(N9)  &kp LS(N8) &kp LBKT &kp EQUAL  
-				       &none         &none      &kp SCLN      &none &kp LS(N1)     &none          &none &kp LS(COMMA) &kp LS(DOT) &none      &none    &kp LS(N7) 
-				       &kp LGUI      &kp LALT   &none         &none &kp GRAVE                           &kp LS(N2)    &kp LS(N3)                      &kp LS(N2) 
-            >;
+                       &kp LS(SLASH) &none      &kp LS(MINUS) &none &kp LS(SCLN)                        &kp RBKT      &kp BSLH    &none           &none    &kp LS(N5) 
+				       &kp LS(N6)    &kp LS(N3) &kp LS(N4)    &none &none                               &kp LS(N8)    &kp LS(N9)  &kp KP_MULTIPLY &kp LBKT &kp EQUAL  
+				       &none         &none      &kp SCLN      &none &kp LS(N1)     &none          &none &kp LS(COMMA) &kp LS(DOT) &none           &none    &kp LS(N7) 
+				       &kp LGUI      &kp LALT   &none         &none &kp GRAVE                           &kp LS(N2)    &kp LS(N3)                           &kp LS(N2) 
+            >;     
         };
        layer_9 {   ////syanthi  mac
             bindings =<
@@ -274,7 +274,7 @@
         };
         layer_13 {   //scrol  win
             bindings =<
-                   &kp KP_MULTIPLY        &kp LS(SCLN)    &kp LS(SQT) &kp LS(RBKT) &kp LS(BSLH)                      &none         &none            &kp LG(TAB) &none             &none 
+                   &none        &none    &none &none &none                      &none         &none            &kp LG(TAB) &none             &none 
 				   &kp LSHIFT   &none    &none &none &none                      &none         &kp LG(LC(LEFT)) &none       &kp LC(LG(RIGHT)) &none 
 				   &kp LCTRL    &none    &none &none &none &none          &none &none         &none            &none       &none             &none 
 				   &kp LGUI     &kp LALT &none &none &none                      &none         &none                                          &none
