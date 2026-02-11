@@ -274,7 +274,7 @@
         };
         layer_13 {   //scrol  win
             bindings =<
-                   &kp KP_MULTIPLY        &none    &none &none &none                      &none         &none            &kp LG(TAB) &none             &none 
+                   &kp KP_MULTIPLY        &kp LS(SCLN)    &kp LS(SQT) &kp LS(RBKT) &kp LS(BSLH)                      &none         &none            &kp LG(TAB) &none             &none 
 				   &kp LSHIFT   &none    &none &none &none                      &none         &kp LG(LC(LEFT)) &none       &kp LC(LG(RIGHT)) &none 
 				   &kp LCTRL    &none    &none &none &none &none          &none &none         &none            &none       &none             &none 
 				   &kp LGUI     &kp LALT &none &none &none                      &none         &none                                          &none
